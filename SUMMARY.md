@@ -29,7 +29,7 @@
    * [条件](tiao_jian.md)
    * [循环](xun_huan.md)
    * [类型](lei_xing.md)
-       * 类型检测
+       * [类型检测](lei_xing_jian_ce.md)
        * 类型转换
    * 字符串
    * 对象
