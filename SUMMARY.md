@@ -50,7 +50,7 @@
    * [模块化](mo_kuai_hua.md)
        * [AMD](amd.md)
        * [define](define.md)
-       * require
+       * [require](require.md)
    * [DOM](dom.md)
        * 元素获取
        * 样式获取
