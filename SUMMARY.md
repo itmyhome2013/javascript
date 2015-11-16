@@ -44,6 +44,6 @@
        * [eval](eval.md)
        * [动态执行代码](dong_tai_zhi_xing_dai_ma.md)
        * [with](with.md)
-       * delete
+       * [delete](delete.md)
        * 对象属性
 
