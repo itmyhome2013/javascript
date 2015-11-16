@@ -55,6 +55,6 @@
        * [元素获取](yuan_su_huo_qu.md)
        * [样式获取](yang_shi_huo_qu.md)
        * [样式设置](yang_shi_she_zhi.md)
-       * DOM 操作
+       * [DOM 操作](dom_cao_zuo.md)
        * DOM 事件
 
