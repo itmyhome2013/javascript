@@ -30,7 +30,7 @@
    * [循环](xun_huan.md)
    * [类型](lei_xing.md)
        * [类型检测](lei_xing_jian_ce.md)
-       * 类型转换
+       * [类型转换](lei_xing_zhuan_huan.md)
    * 字符串
    * 对象
    * 数组
