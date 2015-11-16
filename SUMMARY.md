@@ -14,7 +14,7 @@
        * [单行注释](dan_xing_zhu_shi.md)
        * [多行注释](duo_xing_zhu_shi.md)
        * [文档化注释](wen_dang_hua_zhu_shi.md)
-       * 类型定义
+       * [类型定义](lei_xing_ding_yi.md)
        * 文件注释
        * 命名空间注释
        * 类注释
