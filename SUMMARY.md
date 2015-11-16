@@ -11,7 +11,7 @@
        * [语句](224_yu_ju.md)
    * [命名](23_ming_ming.md)
    * [注释](24_zhu_shi.md)
-       * 单行注释
+       * [单行注释](dan_xing_zhu_shi.md)
        * 多行注释
        * 文档化注释
        * 类型定义
