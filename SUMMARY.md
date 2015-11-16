@@ -10,7 +10,7 @@
        * [换行](huan_xing.md)
        * [语句](yu_ju.md)
    * [命名](ming_ming.md)
-   * [注释](24_zhu_shi.md)
+   * [注释](zhu_shi.md)
        * [单行注释](dan_xing_zhu_shi.md)
        * [多行注释](duo_xing_zhu_shi.md)
        * [文档化注释](wen_dang_hua_zhu_shi.md)
