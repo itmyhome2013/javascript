@@ -22,6 +22,6 @@
        * [事件注释](shi_jian_zhu_shi.md)
        * [常量注释](chang_liang_zhu_shi.md)
        * [复杂类型注释](fu_za_lei_xing_zhu_shi.md)
-       * AMD 模块注释
+       * [AMD 模块注释](amd_mo_kuai_zhu_shi.md)
        * 细节注释
 
