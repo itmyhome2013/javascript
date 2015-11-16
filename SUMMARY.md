@@ -10,5 +10,5 @@
        * [换行](223_huan_xing.md)
        * [语句](224_yu_ju.md)
    * [命名](23_ming_ming.md)
-   * [2.4 注释](24_zhu_shi.md)
+   * [注释](24_zhu_shi.md)
 
