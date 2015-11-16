@@ -37,7 +37,7 @@
    * [函数](han_shu.md)
        * [函数长度](han_shu_chang_du.md)
        * [参数设计](can_shu_she_ji.md)
-       * 闭包
+       * [闭包](bi_bao.md)
        * 空函数
    * 面向对象
    * [动态特性](dong_tai_te_xing.md)
