@@ -36,7 +36,7 @@
    * [数组](shu_zu.md)
    * [函数](han_shu.md)
        * [函数长度](han_shu_chang_du.md)
-       * 参数设计
+       * [参数设计](can_shu_she_ji.md)
        * 闭包
        * 空函数
    * 面向对象
