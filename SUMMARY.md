@@ -33,7 +33,7 @@
        * [类型转换](lei_xing_zhuan_huan.md)
    * [字符串](zi_fu_chuan.md)
    * [对象](dui_xiang.md)
-   * 数组
+   * [数组](shu_zu.md)
    * [函数](han_shu.md)
        * 函数长度
        * 参数设计
