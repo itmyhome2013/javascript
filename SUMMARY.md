@@ -53,4 +53,5 @@
        * require
    * [DOM](dom.md)
        * 元素获取
+       * 样式获取
 
