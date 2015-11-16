@@ -8,7 +8,7 @@
        * [缩进](suo_jin_md.md)
        * [空格](kong_ge_md.md)
        * [换行](huan_xing.md)
-       * [语句](224_yu_ju.md)
+       * [语句](yu_ju.md)
    * [命名](23_ming_ming.md)
    * [注释](24_zhu_shi.md)
        * [单行注释](dan_xing_zhu_shi.md)
