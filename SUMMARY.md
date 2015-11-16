@@ -53,7 +53,7 @@
        * [require](require.md)
    * [DOM](dom.md)
        * [元素获取](yuan_su_huo_qu.md)
-       * 样式获取
+       * [样式获取](yang_shi_huo_qu.md)
        * 样式设置
        * DOM 操作
        * DOM 事件
