@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [前言](chapter1.md)
-* [代码风格](dai_ma_feng_ge.md)
+* [2 代码风格](dai_ma_feng_ge.md)
    * [2.1 文件](21_wen_jian.md)
    * [2.2 结构](22_jie_gou.md)
        * 2.2.1 缩进
