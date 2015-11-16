@@ -6,7 +6,7 @@
    * [文件](21_wen_jian.md)
    * [结构](22_jie_gou.md)
        * [缩进](221_suo_jin.md)
-       * [2.2.2 空格](222_kong_ge.md)
+       * [空格](222_kong_ge.md)
        * [2.2.3 换行](223_huan_xing.md)
        * [2.2.4 语句](224_yu_ju.md)
    * [2.3 命名](23_ming_ming.md)
