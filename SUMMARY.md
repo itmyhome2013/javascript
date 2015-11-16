@@ -44,4 +44,5 @@
        * eval
        * 动态执行代码
        * with
+       * delete
 
