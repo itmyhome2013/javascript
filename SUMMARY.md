@@ -32,7 +32,7 @@
        * [类型检测](lei_xing_jian_ce.md)
        * [类型转换](lei_xing_zhuan_huan.md)
    * [字符串](zi_fu_chuan.md)
-   * 对象
+   * [对象](dui_xiang.md)
    * 数组
    * [函数](han_shu.md)
        * 函数长度
