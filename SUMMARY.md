@@ -49,7 +49,7 @@
 * [浏览器环境](liu_lan_qi_huan_jing.md)
    * [模块化](mo_kuai_hua.md)
        * [AMD](amd.md)
-       * define
+       * [define](define.md)
        * require
    * [DOM](dom.md)
        * 元素获取
