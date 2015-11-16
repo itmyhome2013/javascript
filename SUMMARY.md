@@ -35,7 +35,7 @@
    * [对象](dui_xiang.md)
    * [数组](shu_zu.md)
    * [函数](han_shu.md)
-       * 函数长度
+       * [函数长度](han_shu_chang_du.md)
        * 参数设计
        * 闭包
        * 空函数
