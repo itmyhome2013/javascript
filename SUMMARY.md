@@ -51,5 +51,5 @@
        * AMD
        * define
        * require
-   * DOM
+   * [DOM](dom.md)
 
