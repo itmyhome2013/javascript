@@ -51,4 +51,5 @@
        * AMD
        * define
        * require
+   * DOM
 
