@@ -50,4 +50,5 @@
    * [模块化](mo_kuai_hua.md)
        * AMD
        * define
+       * require
 
