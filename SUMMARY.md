@@ -5,7 +5,7 @@
 * [代码风格](dai_ma_feng_ge.md)
    * [文件](21_wen_jian.md)
    * [结构](22_jie_gou.md)
-       * [缩进](221_suo_jin.md)
+       * [缩进](suo_jin_md.md)
        * [空格](222_kong_ge.md)
        * [换行](223_huan_xing.md)
        * [语句](224_yu_ju.md)
