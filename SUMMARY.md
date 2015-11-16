@@ -19,7 +19,7 @@
        * [命名空间注释](ming_ming_kong_jian_zhu_shi.md)
        * [类注释](lei_zhu_shi.md)
        * [函数/方法注释](han_6570_fang_fa_zhu_shi.md)
-       * 事件注释
+       * [事件注释](shi_jian_zhu_shi.md)
        * 常量注释
        * 复杂类型注释
        * AMD 模块注释
