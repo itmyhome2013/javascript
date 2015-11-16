@@ -27,7 +27,7 @@
 * [语言特性](yu_yan_te_xing.md)
    * [变量](bian_liang.md)
    * [条件](tiao_jian.md)
-   * 循环
+   * [循环](xun_huan.md)
    * [类型](lei_xing.md)
        * 类型检测
        * 类型转换
