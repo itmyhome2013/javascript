@@ -39,7 +39,7 @@
        * [参数设计](can_shu_she_ji.md)
        * [闭包](bi_bao.md)
        * [空函数](kong_han_shu.md)
-   * 面向对象
+   * [面向对象](mian_xiang_dui_xiang.md)
    * [动态特性](dong_tai_te_xing.md)
        * eval
        * 动态执行代码
